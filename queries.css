@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1200px) {
+  .hero-text-box {
+    width: 100%;
+    padding: 0 2%;
+  }
+  .row {
+    padding: 0 2%;
+  }
+
+  .profile-image {
+    margin-left: 1px;
+  }
+  img.img-rounded {
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  .projimg {
+    width: 450px;
+    height: 250px;
+  }
+  .projp {
+    margin-left: 35px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  h1.h1 {
+    width: 80%;
+    margin-left: 70px;
+  }
+  img.img-rounded {
+    width: 65%;
+    margin-left: 70px;
+  }
+  .para-about {
+    width: 65%;
+    height: auto;
+  }
+  .projp {
+    padding: 2px 2px;
+    font-size: 18px;
+  }
+
+  .projimg {
+    width: 400px;
+  }
+  h3 {
+    font-size: 1.15rem;
+  }
+  .social-logo {
+    font-size: 45px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .para-about {
+    width: 100%;
+    top: 5px;
+  }
+  .about-me {
+    font-size: 20px;
+    padding: 2px 2px;
+  }
+}
